@@ -1,1 +1,1 @@
-![Bank Marketing Analysis](https://raw.githubusercontent.com/dinav124/1/blob/main/haldepan.png)
+![Bank Marketing Analysis](https://raw.githubusercontent.com/dinav124/1/refs/heads/main/haldepan.png)
